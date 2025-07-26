@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Gana-Joshua-Danlami
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning data analysis @ALTschool africa
-- 💞️ I’m looking to collaborate on exciting projects to execute what i am learning 
-- 📫 How to reach me @ganajoshuadanlami@gmail.com
-- ⚡ Fun fact: i am a very curious person open to learning new things having new experiences and solving problems 
+## 👋 Hey, I’m Gana Joshua Danlami The Analyst
+
+I’m a Data Analyst & Storyteller focused on helping **fintech startups**, **SaaS products**, and **digital consultants** make smarter decisions with their numbers.
+
+I specialize in breaking down complex business questions into **actionable insights** using tools like **SQL**, **Python**, **Google colab**, **Tableau**....... 
+
+### 🧠 What I Do
+- 🔍 Analyze business data for growth, retention, and clarity  
+- 📊 Build dashboards that uncover hidden trends  
+- 🤖 Use machine learning to solve real business problems  
+- ✍🏽 Turn complex data into clear, compelling stories  
+
+### 🤝 Open to
+- Collaborating on client-facing dashboards  
+- Internships, freelance roles, or partnerships in **fintech**, **tech**, or **digital business strategy**
+
+### 📫 Reach Me
+- Email: ganajoshuadanlami@gmail.com  
+
 
 <!---
 Gana-Joshua-Danlami/Gana-Joshua-Danlami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
