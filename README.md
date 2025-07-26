@@ -1,10 +1,10 @@
-## 👋 Hey, I’m Gana Joshua Danlami The Analyst
+## 🙋 Hey, I’m Gana Joshua Danlami The Analyst
 
 I’m a Data Analyst & Storyteller focused on helping **fintech startups**, **SaaS products**, and **digital consultants** make smarter decisions with their numbers.
 
 I specialize in breaking down complex business questions into **actionable insights** using tools like **SQL**, **Python**, **Google colab**, **Tableau**....... 
 
-### 🧠 What I Do
+###  What I Do
 - 🔍 Analyze business data for growth, retention, and clarity  
 - 📊 Build dashboards that uncover hidden trends  
 - 🤖 Use machine learning to solve real business problems  
